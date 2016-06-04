@@ -11,3 +11,8 @@ Update:
 I should add that this assumes you use Analytics and AdSense on most, if not all, your pages. If you don't, you could consider also logging an event when AdSense ads are loaded, so that you can more accurately gauge the ad blocker share: 
 
 (This will obviously further increase the number of events counting towards your collection limits)
+
+Credit : 
+* https://www.webmasterworld.com/google_adsense/4777452-2-30.htm
+* http://pastebin.com/raw/hWaHb3ct (erwin solihin)
+
